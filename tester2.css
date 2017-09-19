@@ -1,7 +1,10 @@
 body { 
 	background-color: black;
 	}
-	
-	img {
-		border-radius: 50%;
-		}
+span.crosshair {
+	cursor: crosshair;
+}
+
+img {
+	border-radius: 50%;
+	}
